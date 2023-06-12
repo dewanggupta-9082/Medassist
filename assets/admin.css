@@ -1,0 +1,54 @@
+.loginmaincontainer
+{
+	 width: 100vw;
+     height: 100vh;
+     background: #9AECDB ;
+     display:flex;
+     justify-content:center;
+     align-items:center;
+}
+
+.loginbox {
+	width: 80%;
+	height: auto;
+    background: white;
+    background-size:cover;
+    border-radius:15px
+}
+
+.waveimg
+{
+   width:350px;
+   border-bottom-left-radius: 18px;
+   border-top-left-radius: 15px;
+   position: fixed;
+   height: 483px;
+}
+
+.docimg{
+    width: 40%;
+    position: fixed;
+    padding-top: 51px;
+    padding-left: 147px;
+    padding-right: 57px;
+}
+
+.Idbox{
+    height: auto;
+    width: 70%;
+    background: white;
+    margin-left: 87px;
+
+}
+
+.loginbtn{
+    display:flex;
+    justify-content:center;
+    align-element: center;
+}
+
+.msgstyle{
+   font-size: 20px;
+   font-weight: bold;
+   color: black;
+}
